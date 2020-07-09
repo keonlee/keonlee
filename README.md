@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+🔭 I’m currently working on ...
+APAC, India and Australia regional team manager of IoT Technical Specialist. 
+
 <!--
 **keonlee/keonlee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
