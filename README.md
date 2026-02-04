@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 🔭 I’m currently working on ...
-Cloud & AI Platform GTM Director in Microsof. 
+Developer GBB9Global Black Belt) team in in Microsof. 
 
 <!--
 **keonlee/keonlee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
