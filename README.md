@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 🔭 I’m currently working on ...
-Developer GBB(Global Black Belt) team in Microsof. 
+Developer GBB(Global Black Belt) team in Microsoft. 
 
 <!--
 **keonlee/keonlee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
