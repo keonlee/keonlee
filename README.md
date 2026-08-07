@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 🔭 I’m currently working on ...
-Developer GBB(Global Black Belt) team in Microsoft. 
+FY27 Sr. Solution Sales Advisor - SW GBB 
+FY26 Developer GBB(Global Black Belt) in Microsoft. 
 
 <!--
 **keonlee/keonlee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
